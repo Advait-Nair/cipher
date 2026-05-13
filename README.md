@@ -1,7 +1,7 @@
 # Cipheria
 Custom Python 3.12/NiceGUI application used to crack and solve the National Cipher Challenge 2025's 10 chapters.
 
-This Python program was designed and amended to meet the unique requirements for the NCC2025 as it conntinued. Built on NiceGUI, it runs a local webserver that allows interaction with the main cipher-breaking functionality.
+This Python program was designed and amended to meet the unique requirements for the NCC2025 as it continued. Built on NiceGUI, it runs a local webserver that allows interaction with the main cipher-breaking functionality.
 
 ## Ciphers available
 - Caesar
