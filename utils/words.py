@@ -1,3 +1,16 @@
+'''
+
+  utils                                    
+  ──────────────┬─────────────────────────
+  File          │ words.py                 
+  File Created  │ 11th Oct 2025 17:33:51
+  Last Modified │ 27th Jun 2026 13:15:12
+  License       │ <<licensename>>
+  ──────────────┴─────────────────────────
+  Copyright (c) 2022-2026 Advait Nair, Adva Software.
+
+
+'''
 import os
 import sys
 import json
